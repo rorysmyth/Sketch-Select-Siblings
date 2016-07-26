@@ -1,0 +1,17 @@
+{
+    "name" : "Select Siblings",
+    "identifier" : "com.sketchapp.selectsiblings",
+    "version" : "1.0.0",
+    "description" : "Select sibling layers in Sketch",
+    "authorEmail" : "rorysmyth@gmail.com",
+    "author" : "Rory Smyth",
+    "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Select Siblings",
+      "identifier" : "selectsiblings"
+    }
+  ]
+}
