@@ -1,2 +1,2 @@
 # Sketch-Select-Siblings
-Select sibling layers in Sketch
+Select sibling layers, artboards, groups or symbols in Sketch
