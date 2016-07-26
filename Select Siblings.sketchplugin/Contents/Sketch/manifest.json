@@ -9,7 +9,7 @@
     {
       "script" : "script.js",
       "handler" : "onRun",
-      "shortcut" : "",
+      "shortcut" : "ctrl a",
       "name" : "Select Siblings",
       "identifier" : "selectsiblings"
     }
